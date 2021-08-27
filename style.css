@@ -1,0 +1,45 @@
+body {
+    margin: 2rem;
+    padding: 3rem;
+    box-sizing: border-box;
+    height: 150vh;
+    background-color: black;
+    color: white;
+    max-width: 700px ;
+    font-size: xx-large;
+    margin-left: 400px;
+}
+  
+  
+  main {
+   
+    text-align: center;
+    height: 200%;
+  }
+  
+  #bday-input{
+    font-size: xx-large;
+  }
+  
+  #img5{
+    display: none;
+  }
+  
+  
+  p {
+    padding: 2rem;
+    text-align: left;
+    font-size: large;
+  }
+  
+  #show-btn{
+    color: white;
+    background-color: #242B2E;
+    font-size: x-large;
+    margin-top: 50px;
+  }
+  
+  #result{
+    font-size: xx-large;
+    color: #CEB992;
+  }
